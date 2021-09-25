@@ -16,7 +16,7 @@ git commit
 
 External [links](https://pages.github.com/).
 
-## Section [link](Heading)
+## Section [link](https://pages.github.com/)
 
 relative [link](README.md)
 
