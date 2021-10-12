@@ -1,9 +1,11 @@
-# Heading
-![alt text](screenshots/command.png)
+# Celia Xiao's Page
 
-**This is bold text**
+**About me**
 
-In the words of Abraham Lincoln:
+Hi everyone, I'm a junior year Warren student majoring in Computer Engineering.
+- hobbies: animation/movies
+- professional experience: I had a intern working - on web-dev
+- interests/want to learn: artificial intelligence, web security
 
 > Quoting text
 
@@ -13,6 +15,8 @@ git status
 git add
 git commit
 ```
+
+![alt text](screenshots/command.png)
 
 External [links](https://pages.github.com/).
 
